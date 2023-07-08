@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Huzaifa Khan</h1>
-<h3 align="center">A Random guy learning about Artificial Intelligence and Data Science</h3>
+<h1 align="center">Hey Folks 👋, I'm Huzaifa Khan</h1>
+<h3 align="center">An Enthusiast learning about Artificial Intelligence and Data Science</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
