@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CNN, OpenCV**
 
-- 🤝 I’m looking for help on a project **Gender Recognition from voice**
+- 🤝 I’m looking for help on a project **Sentiment Analysis using Voice Recognition**
 
 - 💬 Ask me about **NLP**
 
