@@ -18,7 +18,7 @@
 ```txt
 Machine Learning     8 hrs 30 mins   ██████████████▒░░░░░░   73.28%
 Data Analysis        1 hr 50 mins    ████░░░░░░░░░░░░░░░░░   15.83%
-NLP                  32 mins         █▒░░░░░░░░░░░░░░░░░░░   04.68%
+Data Visualization   32 mins         █▒░░░░░░░░░░░░░░░░░░░   04.68%
 Deep Learning        27 mins         █░░░░░░░░░░░░░░░░░░░░   03.92%
 Exploring            6 mins          ▒░░░░░░░░░░░░░░░░░░░░   00.96%
 ```
