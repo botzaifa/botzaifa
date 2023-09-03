@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NLP**
 
-- 📫 How to reach me **kmhuzaifabinafzal@gmail.com**
+- 📫 How to reach me **workwithhuzi@gmail.com**
 
 - ⚡ Fun fact **I'm way better than you in Video Games**
 
