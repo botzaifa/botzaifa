@@ -58,7 +58,7 @@ Exploring            6 mins          ▒░░░░░░░░░░░░░�
 
 - 📫 How to reach me **workwithhuzi@gmail.com**
 
-- ⚡ Fun fact **I'm way better than you in Video Games**
+- ⚡ Fun fact **I can speak German more fluently than Marathi**
 
 
 
