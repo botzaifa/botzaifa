@@ -69,7 +69,7 @@ Exploring            6 mins          ▒░░░░░░░░░░░░░�
 <a href="https://instagram.com/botzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="botzaifa" height="30" width="40" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=botzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="aisha-ficial" /> </p>
 
 #### Thanks for visiting :heart:
 
