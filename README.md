@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=botzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="botzaifa" /> </p>
-
 ![welcome](assets/Bottom_up.svg)
 
 
@@ -72,4 +70,6 @@ Exploring            6 mins          ▒░░░░░░░░░░░░░�
 </p>
 
 #### Thanks for visiting :heart:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=botzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="botzaifa" /> </p>
 
