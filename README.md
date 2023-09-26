@@ -27,11 +27,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 A better GitHub's Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
 ![Huzi's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Huzi's github stats](https://github-readme-stats.vercel.app/api?username=botzaifa&show_icons=true&theme=radical&include_all_commits=true) | ![Huzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=botzaifa&theme=radical&layout=compact) |
+| ![Huzi's github stats](https://github-readme-stats.vercel.app/api?username=botzaifa&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF) | ![Huzi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=botzaifa&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=botzaifa"></img>
 
