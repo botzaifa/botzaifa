@@ -31,7 +31,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **ACADEMICS** 🤓
+- 🔭 I’m currently working as an **AI Engineer** 🤓
 
 - 🌱 I’m currently learning **React and Next.js**
 
@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **workwithhuzi@gmail.com**
 
-- ⚡ Fun fact: **I can speak German more fluently than My Hometown Language (Marathi)**
+- ⚡ Fun fact: **I can speak German more fluently than Marathi (My Hometown Language)**
 
 
 
